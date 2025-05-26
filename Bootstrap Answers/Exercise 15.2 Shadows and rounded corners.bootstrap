@@ -1,0 +1,13 @@
+<div class="container my-5">
+    <div class="shadow-none p-3 mb-5 bg-light rounded">No shadow</div>
+    <div class="shadow-sm p-3 mb-5 bg-white rounded">Small shadow</div>
+    <div class="shadow p-3 mb-5 bg-white rounded">Regular shadow</div>
+    <div class="shadow-lg p-3 mb-5 bg-white rounded">Larger shadow</div>
+    
+    <div class="card shadow rounded-pill">
+        <div class="card-body text-center">
+            <h5 class="card-title">Pill-shaped Card</h5>
+            <p class="card-text">This card has rounded-pill and shadow classes applied.</p>
+        </div>
+    </div>
+</div>

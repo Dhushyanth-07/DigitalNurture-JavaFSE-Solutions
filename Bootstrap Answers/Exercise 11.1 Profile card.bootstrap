@@ -1,0 +1,19 @@
+<div class="container my-5">
+    <div class="card" style="width: 18rem;">
+        <img src="https://via.placeholder.com/300" class="card-img-top" alt="Profile Image">
+        <div class="card-body">
+            <h5 class="card-title">John Doe</h5>
+            <p class="card-text">Web Developer with 5 years of experience in front-end technologies.</p>
+            <a href="#" class="btn btn-primary">View Profile</a>
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Email: john@example.com</li>
+            <li class="list-group-item">Phone: (123) 456-7890</li>
+            <li class="list-group-item">Location: New York</li>
+        </ul>
+        <div class="card-body">
+            <a href="#" class="card-link">LinkedIn</a>
+            <a href="#" class="card-link">GitHub</a>
+        </div>
+    </div>
+</div>

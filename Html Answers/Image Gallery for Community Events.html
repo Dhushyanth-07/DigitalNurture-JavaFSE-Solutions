@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Community Event Portal</title>
+    <style>
+        /* Basic styling for demonstration purposes */
+        section {
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+        nav a {
+            margin-right: 15px;
+            text-decoration: none;
+            color: #007bff;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* Styling for Task 3 */
+        #welcomeBanner {
+            background-color: #e0f2f7; /* Light blue background */
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #28a745; /* Green color for emphasis */
+        }
+
+        /* Styling for Task 4 */
+        .event-image {
+            border: 3px solid #007bff; /* Blue border for images */
+            border-radius: 5px;
+            width: 150px; /* Adjust as needed */
+            height: 100px; /* Adjust as needed */
+            object-fit: cover; /* Ensures images cover the area without distortion */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+
+        figcaption {
+            font-size: 0.9em;
+            color: #555;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#events">Events</a>
+        <a href="#contact">Contact</a>
+        <a href="help.html" target="_blank">Help</a>
+    </nav>
+
+    <main>
+        <section id="home">
+            <div id="welcomeBanner">
+                <h2>Welcome to our Community Portal!</h2>
+                <p>We're thrilled to have you here. <span style="color: red; font-weight: bold;">Special Offer: Register for any event this month and get a 10% discount!</span></p>
+                <p>Explore the <span class="highlight">upcoming events</span> and connect with your <span class="highlight">local community</span>.</p>
+            </div>
+        </section>
+
+        <section id="events">
+            <h2>Upcoming Events</h2>
+            <p>Check out our exciting events below.</p>
+
+            <h3>Past Event Gallery</h3>
+            <table>
+                <tr>
+                    <td>
+                        <figure>
+                            <img src="https://via.placeholder.com/150x100?text=Community+Fair" alt="Community Fair" title="Annual Community Fair 2024" class="event-image">
+                            <figcaption>Annual Community Fair 2024</figcaption>
+                        </figure>
+                    </td>
+                    <td>
+                        <figure>
+                            <img src="https://via.placeholder.com/150x100?text=Music+Festival" alt="Music Festival" title="Summer Music Festival" class="event-image">
+                            <figcaption>Summer Music Festival</figcaption>
+                        </figure>
+                    </td>
+                    <td>
+                        <figure>
+                            <img src="https://via.placeholder.com/150x100?text=Marathon" alt="Charity Marathon" title="Annual Charity Marathon" class="event-image">
+                            <figcaption>Annual Charity Marathon</figcaption>
+                        </figure>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <figure>
+                            <img src="https://via.placeholder.com/150x100?text=Art+Exhibition" alt="Art Exhibition" title="Local Artists' Exhibition" class="event-image">
+                            <figcaption>Local Artists' Exhibition</figcaption>
+                        </figure>
+                    </td>
+                    <td>
+                        <figure>
+                            <img src="https://via.placeholder.com/150x100?text=Food+Trucks" alt="Food Truck Festival" title="Food Truck Festival" class="event-image">
+                            <figcaption>Food Truck Festival</figcaption>
+                        </figure>
+                    </td>
+                    <td>
+                        <figure>
+                            <img src="https://via.placeholder.com/150x100?text=Book+Swap" alt="Book Swap" title="Community Book Swap" class="event-image">
+                            <figcaption>Community Book Swap</figcaption>
+                        </figure>
+                    </td>
+                </tr>
+            </table>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Get in touch with us for any inquiries.</p>
+            </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Local City Council. All rights reserved.</p>
+    </footer>
+</body>
+</html>

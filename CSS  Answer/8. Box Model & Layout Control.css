@@ -1,0 +1,30 @@
+/* Box model styles */
+.eventCard {
+    border: 2px solid #3498db;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    background-color: white;
+    outline: 1px solid transparent;
+    transition: outline 0.3s ease;
+}
+
+.eventCard:hover {
+    outline: 1px solid #e74c3c;
+}
+
+.form-field {
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.hidden-element {
+    visibility: hidden; /* Element takes up space */
+}
+
+.removed-element {
+    display: none; /* Element doesn't take up space */
+}

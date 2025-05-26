@@ -1,0 +1,40 @@
+/* Link styles */
+a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #2980b9;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #9b59b6;
+}
+
+a:active {
+    color: #e74c3c;
+}
+
+/* List styles */
+.nav-menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav-menu li {
+    padding: 0.5rem 1rem;
+    margin: 0.2rem 0;
+    background-color: #f8f9fa;
+}
+
+.event-features {
+    list-style-position: inside;
+    padding-left: 1rem;
+}
+
+.event-features li {
+    margin-bottom: 0.5rem;
+}

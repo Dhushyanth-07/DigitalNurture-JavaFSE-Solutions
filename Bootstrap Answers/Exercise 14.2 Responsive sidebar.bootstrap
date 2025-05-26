@@ -1,0 +1,23 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3 d-none d-md-block bg-light min-vh-100">
+            <div class="p-3">
+                <h4>Sidebar</h4>
+                <ul class="nav flex-column">
+                    <li class="nav-item"><a href="#" class="nav-link">Dashboard</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Orders</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Products</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Customers</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Reports</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="p-4">
+                <h1>Main Content</h1>
+                <p>The sidebar is hidden on mobile devices but visible on tablets and larger screens.</p>
+                <p>Resize your browser window to see the effect.</p>
+            </div>
+        </div>
+    </div>
+</div>

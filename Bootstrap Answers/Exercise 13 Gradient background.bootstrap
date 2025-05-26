@@ -1,0 +1,8 @@
+<div class="container my-5">
+    <div class="p-5 bg-dark bg-gradient text-white rounded-3">
+        <h1 class="display-4">Gradient Background</h1>
+        <p class="lead">This is a dark gradient background with white text.</p>
+        <p>You can see the subtle gradient effect from darker to slightly lighter dark.</p>
+        <button class="btn btn-outline-light btn-lg" type="button">Example button</button>
+    </div>
+</div>

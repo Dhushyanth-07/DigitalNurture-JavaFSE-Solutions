@@ -1,0 +1,11 @@
+<div class="container my-5">
+    <div class="m-1 p-1 bg-light border">Small margin and padding</div>
+    <div class="m-3 p-3 bg-light border">Medium margin and padding</div>
+    <div class="m-5 p-5 bg-light border">Large margin and padding</div>
+    
+    <div class="mt-4 mb-2 ps-5 pe-3 py-4 bg-light border">
+        <p>Custom spacing:</p>
+        <p>Margin top 4, margin bottom 2</p>
+        <p>Padding left 5, padding right 3, padding top and bottom 4</p>
+    </div>
+</div>

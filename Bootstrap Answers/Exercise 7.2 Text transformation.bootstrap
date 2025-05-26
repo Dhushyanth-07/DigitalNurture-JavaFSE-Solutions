@@ -1,0 +1,5 @@
+<div class="container my-5">
+    <p class="text-uppercase">uppercase text</p>
+    <p class="text-lowercase">LOWERCASE TEXT</p>
+    <p class="text-capitalize">capitalized text</p>
+</div>

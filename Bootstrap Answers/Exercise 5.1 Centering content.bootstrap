@@ -1,0 +1,9 @@
+<div class="container">
+    <div class="row justify-content-center align-items-center" style="height: 300px; background-color: #f8f9fa;">
+        <div class="col-4">
+            <div class="p-3 border bg-white text-center">
+                Centered Content
+            </div>
+        </div>
+    </div>
+</div>

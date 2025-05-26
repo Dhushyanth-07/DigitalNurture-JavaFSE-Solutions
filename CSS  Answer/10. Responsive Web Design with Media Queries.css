@@ -1,0 +1,41 @@
+/* Responsive styles */
+.nav-menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+@media (max-width: 768px) {
+    .nav-menu {
+        flex-direction: column;
+    }
+    
+    .eventCard {
+        padding: 1rem;
+        margin: 0.5rem 0;
+    }
+    
+    h1 {
+        font-size: 1.8rem;
+    }
+    
+    .news-article {
+        column-count: 1;
+    }
+    
+    .event-image {
+        width: 100%;
+        height: auto;
+    }
+}
+
+/* Flexible layout */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.hero-section {
+    height: 50vh;
+    min-height: 300px;
+}

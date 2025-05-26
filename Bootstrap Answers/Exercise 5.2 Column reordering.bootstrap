@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 order-md-2 bg-danger p-3 text-white">
+            This column comes second on desktop
+        </div>
+        <div class="col-md-4 order-md-1 bg-primary p-3 text-white">
+            This column comes first on desktop
+        </div>
+        <div class="col-md-4 order-md-3 bg-success p-3 text-white">
+            This column comes third on desktop
+        </div>
+    </div>
+</div>

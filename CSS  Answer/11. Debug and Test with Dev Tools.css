@@ -1,0 +1,24 @@
+<!-- Example HTML for testing -->
+<div class="container">
+    <nav>
+        <ul class="nav-menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <article class="news-article">
+            <h2>Community News</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+            <!-- More content -->
+        </article>
+        
+        <div class="eventCard">
+            <h3>Summer Festival</h3>
+            <p>Join us for the annual summer celebration!</p>
+        </div>
+    </main>
+</div>

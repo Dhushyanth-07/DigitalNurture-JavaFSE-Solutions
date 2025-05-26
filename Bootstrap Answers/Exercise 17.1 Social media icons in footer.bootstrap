@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Icons</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+</head>
+<body>
+    <div class="container my-5">
+        <h1>Bootstrap Icons</h1>
+        <p>Example of using Bootstrap Icons in your project.</p>
+    </div>
+    
+    <footer class="bg-dark text-white py-4">
+        <div class="container text-center">
+            <h5>Follow us on social media</h5>
+            <div class="d-flex justify-content-center gap-3 mt-3">
+                <a href="#" class="text-white"><i class="bi bi-facebook fs-3"></i></a>
+                <a href="#" class="text-white"><i class="bi bi-twitter fs-3"></i></a>
+                <a href="#" class="text-white"><i class="bi bi-instagram fs-3"></i></a>
+                <a href="#" class="text-white"><i class="bi bi-linkedin fs-3"></i></a>
+                <a href="#" class="text-white"><i class="bi bi-youtube fs-3"></

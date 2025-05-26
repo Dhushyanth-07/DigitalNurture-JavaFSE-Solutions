@@ -1,0 +1,60 @@
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-3 mb-4">
+            <div class="p-3 bg-primary text-white rounded">
+                <h3>Primary</h3>
+                <p>Primary background with white text</p>
+            </div>
+        </div>
+        <div class="col-md-3 mb-4">
+            <div class="p-3 bg-success text-white rounded">
+                <h3>Success</h3>
+                <p>Success background with white text</p>
+            </div>
+        </div>
+        <div class="col-md-3 mb-4">
+            <div class="p-3 bg-warning text-dark rounded">
+                <h3>Warning</h3>
+                <p>Warning background with dark text</p>
+            </div>
+        </div>
+        <div class="col-md-3 mb-4">
+            <div class="p-3 bg-danger text-white rounded">
+                <h3>Danger</h3>
+                <p>Danger background with white text</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div class="p-3 bg-info text-dark rounded">
+                <h3>Info</h3>
+                <p>Info background with dark text</p>
+            </div>
+        </div>
+        <div class="col-md-6 mb-4">
+            <div class="p-3 bg-dark text-white rounded">
+                <h3>Dark</h3>
+                <p>Dark background with white text</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-12">
+            <div class="p-3 bg-light text-dark rounded">
+                <h3>Text Colors</h3>
+                <p class="text-primary">Primary text</p>
+                <p class="text-secondary">Secondary text</p>
+                <p class="text-success">Success text</p>
+                <p class="text-danger">Danger text</p>
+                <p class="text-warning bg-dark">Warning text</p>
+                <p class="text-info bg-dark">Info text</p>
+                <p class="text-light bg-dark">Light text</p>
+                <p class="text-dark">Dark text</p>
+                <p class="text-muted">Muted text</p>
+            </div>
+        </div>
+    </div>
+</div>

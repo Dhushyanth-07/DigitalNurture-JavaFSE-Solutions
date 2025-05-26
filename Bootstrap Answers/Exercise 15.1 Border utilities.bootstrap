@@ -1,0 +1,9 @@
+<div class="container my-5">
+    <div class="border p-3 mb-3">Default border</div>
+    <div class="border border-primary p-3 mb-3">Primary colored border</div>
+    <div class="border border-3 border-success p-3 mb-3">Thicker success border</div>
+    <div class="border-top border-4 border-danger p-3 mb-3">Top danger border</div>
+    
+    <img src="https://via.placeholder.com/150" class="rounded-circle d-block mb-3" alt="Circle Image">
+    <img src="https://via.placeholder.com/150" class="rounded-pill d-block" alt="Pill Image">
+</div>

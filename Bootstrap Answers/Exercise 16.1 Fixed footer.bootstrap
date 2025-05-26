@@ -1,0 +1,9 @@
+<div class="container mb-5">
+    <h1 class="my-5">Page Content</h1>
+    <p>Scroll down to see the fixed footer at the bottom of the viewport.</p>
+    <div style="height: 1000px;"></div>
+</div>
+
+<footer class="bg-dark text-white text-center p-3 position-fixed bottom-0 w-100">
+    &copy; 2023 My Website. All rights reserved.
+</footer>

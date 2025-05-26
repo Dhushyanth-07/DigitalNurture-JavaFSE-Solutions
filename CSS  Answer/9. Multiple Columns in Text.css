@@ -1,0 +1,16 @@
+/* Multi-column layout */
+.news-article {
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: 1px solid #ddd;
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+    .news-article {
+        column-count: 1;
+    }
+}
